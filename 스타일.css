@@ -1,0 +1,18 @@
+.head{
+    background-color: darkblue;
+    padding: 1.1em;
+}
+
+.c1{
+    float: left;
+    text-decoration: underline;
+    background-color: light gray;
+}
+.head{
+    background-color: darkred;
+    color: yellow;
+}
+
+p{
+    padding: 5px;     
+}
